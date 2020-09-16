@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isPrime(int)
+comment1.params=n
+comment1.target=int\ sumDigits(int)
+comment2.params=n
+comment2.target=int\ getSumDigitsOfPrimeFactors(int)
+comment3.params=n
+comment3.target=boolean\ isSmith(int)
+comment4.params=l\ u
+comment4.target=void\ range(int,\ int)
+numComments=5

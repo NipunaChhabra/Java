@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Correlation(int)
+comment1.params=
+comment1.target=void\ rhoRankSort()
+comment2.params=
+comment2.target=void\ rank()
+comment3.params=
+comment3.target=void\ diS()
+comment4.params=
+comment4.target=double\ rho()
+comment5.params=i\ j
+comment5.target=int\ tauS(int,\ int)
+comment6.params=
+comment6.target=int\ tau()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimpleQueue()
+comment1.params=n
+comment1.target=void\ add(int)
+comment2.params=
+comment2.target=int\ remove()
+comment3.params=
+comment3.target=boolean\ isUnderflow()
+comment4.params=
+comment4.target=boolean\ isOverflow()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

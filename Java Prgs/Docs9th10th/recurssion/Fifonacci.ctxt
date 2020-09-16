@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ b\ i\ n
+comment0.target=void\ fibSeries(int,\ int,\ int,\ int)
+comment1.params=n
+comment1.target=void\ fibSeries(int)
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ hundred()
+comment1.params=
+comment1.target=java.lang.String\ thousand()
+comment2.params=
+comment2.target=java.lang.String\ million()
+comment3.params=n
+comment3.target=java.lang.String\ units(int)
+comment4.params=n
+comment4.target=java.lang.String\ teens(int)
+comment5.params=n
+comment5.target=java.lang.String\ tens(int)
+comment6.params=n
+comment6.target=java.lang.String\ convert(int)
+numComments=7

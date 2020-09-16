@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sentence
+comment0.target=Encryption(java.lang.String)
+comment1.params=
+comment1.target=void\ extractWord()
+comment2.params=
+comment2.target=void\ reverseSpell()
+comment3.params=
+comment3.target=void\ encrypt()
+comment4.params=
+comment4.target=void\ reverseSentence()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

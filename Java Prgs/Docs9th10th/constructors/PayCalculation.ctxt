@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ empc\ empn\ b
+comment0.target=PayCalculation(java.lang.String,\ byte,\ int,\ double)
+comment1.params=
+comment1.target=void\ calcPay()
+comment2.params=
+comment2.target=void\ displayPaySlip()
+numComments=3

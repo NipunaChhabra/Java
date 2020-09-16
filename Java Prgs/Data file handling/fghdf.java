@@ -1,0 +1,2 @@
+/*read text and create another 
+data file by replacing a certain word another word*/

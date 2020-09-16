@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createLinkedList()
+comment0.text=public\ void\ createLinkedList()\r\n\ \ \ \ {StudentNode\ n1\ \=\ new\ StudentNode(1,\ "Chakshu");\r\n\ \ \ \ StudentNode\ n2\ \=\ new\ StudentNode(2,\ "Riddhi");\r\n\ \ \ \ StudentNode\ n3\ \=\ new\ StudentNode(3,\ "Swarna");\r\n\ \ \ \ StudentNode\ n4\ \=\ new\ StudentNode(4,\ "Anushka");\r\n\ \ \ \ StudentNode\ n5\ \=\ new\ StudentNode(5,\ "Sonalika");\r\n\r\n\ \ \ \ first\ \=\ n1;\r\n\ \ \ \ n1.nxt\=n2;\r\n\ \ \ \ n2.nxt\=n3;\r\n\ \ \ \ n3.nxt\=n4;\r\n\ \ \ \ n4.nxt\=n5;\ \ \ \r\n}
+comment1.params=nm
+comment1.target=void\ deleteNode(short)
+comment2.params=p
+comment2.target=void\ insertNode(int)
+comment3.params=
+comment3.target=int\ countNodes()
+comment4.params=
+comment4.target=void\ displayll()
+numComments=5

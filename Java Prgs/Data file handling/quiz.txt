@@ -1,0 +1,4 @@
+Who is the CEO of Adobe Systems?,Jeff Bezos,Mitchell Baker,Phillip Clarke,Marissa Mayer,a
+Who is the CEO of Yahoo?,Jeff Bezos,Mitchell Baker,Phillip Clarke,Marissa Mayer,d
+Who is the CEO of Oracle?,Vittoria Collao,Mitchell Baker,Larry Ellison,Marissa Mayer,c
+Who is the CEO of Vodafone?,Vittoria Collao,Mitchell Baker,Larry Ellison,Marissa Mayer,a

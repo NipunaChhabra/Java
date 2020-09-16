@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ sumDigits(int)
+comment1.params=n
+comment1.target=boolean\ isEmirp(int)
+comment2.params=n
+comment2.target=int\ reverse(int)
+comment3.params=a\ b
+comment3.target=void\ emirpNumbers(int,\ int)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createDLinkedList()
+comment1.params=p
+comment1.target=void\ insertNode(int)
+comment1.text=\ \ //last\ cannot\ be\ deleted\r\n\ \ \ \ void\ deleteNode(int\ nm)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ DoublyLLNode\ current\ \=\ first;\ \r\n\ \ \ \ \ \ \ \ DoublyLLNode\ t\ \=\ null,\ p\ \=\ null;\ \r\n\ \ \ \ \ \ \ \ int\ i\ \=\ 1;\ \r\n\ \ \ \ \ \ \ \ while(current\ \!\=null)\r\n\ \ \ \ \ \ \ \ {if(nm\=\=1){first\=\ first.nxt;}\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ else\ if(nm\=\=i)\r\n\ \ \ \ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t.pre\=p;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t.nxt\=current.nxt;\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ else\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ {p\ \=\ current.pre;\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t\ \=\ current;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ current\=current.nxt;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ i++;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+comment2.params=nm
+comment2.target=void\ deleteNode(int)
+comment3.params=
+comment3.target=void\ displayascending()
+comment4.params=
+comment4.target=void\ displaydescending()
+numComments=5

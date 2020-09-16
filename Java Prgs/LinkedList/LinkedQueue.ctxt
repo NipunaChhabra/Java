@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkedQueue()
+comment1.params=rn\ nm
+comment1.target=void\ addFirstNode(int,\ java.lang.String)
+comment2.params=rn\ nm
+comment2.target=void\ addNodes(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ remove()
+comment4.params=
+comment4.target=boolean\ queueUnderFlow()
+comment5.params=
+comment5.target=void\ displayQueue()
+numComments=6

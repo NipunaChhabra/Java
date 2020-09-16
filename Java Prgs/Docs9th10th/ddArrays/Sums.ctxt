@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Sums(int[][],\ int[][])
+comment1.params=
+comment1.target=int\ addMainDiag()
+comment2.params=
+comment2.target=int\ addOtherDiag()
+comment3.params=
+comment3.target=void\ addColumn()
+comment4.params=
+comment4.target=void\ displayMatrix()
+comment5.params=
+comment5.target=int\ addMDiag()
+comment6.params=
+comment6.target=int\ addODiag()
+numComments=7

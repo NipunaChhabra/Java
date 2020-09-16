@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a\ ord
+comment0.target=SortDDA(int[][],\ int)
+comment1.params=
+comment1.target=void\ OneDA()
+comment2.params=
+comment2.target=void\ Ssort()
+comment3.params=
+comment3.target=void\ assign()
+comment4.params=
+comment4.target=void\ display()
+numComments=5

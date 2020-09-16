@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=SmithNumbers(int)
+comment1.params=a
+comment1.target=boolean\ isPrime(int)
+comment2.params=n
+comment2.target=int\ sumDigitsPrimeFactors(int)
+comment3.params=
+comment3.target=boolean\ isSmithNumber()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

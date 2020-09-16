@@ -1,0 +1,4 @@
+class StringOperations
+{
+    String name = "";
+}

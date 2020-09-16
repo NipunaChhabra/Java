@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=SumSeries1(int,\ int)
+comment1.params=a\ n
+comment1.target=int\ power(int,\ int)
+comment2.params=a
+comment2.target=int\ factorial(int)
+comment3.params=n\ x
+comment3.target=int\ getSum(int,\ int)
+comment4.params=
+comment4.target=void\ getSum()
+comment5.params=
+comment5.target=void\ display()
+numComments=6
